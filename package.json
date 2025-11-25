@@ -2,7 +2,7 @@
   "name": "tictactoe-react",
   "version": "1.0.0",
   "description": "Simple Tic-Tac-Toe teaching example with React 18",
-  "homepage": "https://Seng-Mouyheang.github.io/tic-tac-toe-",
+  "homepage": "https://Seng-Mouyheang.github.io/Tic-Tac-Toe-Game",
   "scripts": {
     "start": "parcel public/index.html",
     "build": "parcel build public/index.html",

@@ -5,7 +5,7 @@
   "homepage": "https://Seng-Mouyheang.github.io/Tic-Tac-Toe-Game",
   "scripts": {
     "start": "parcel public/index.html",
-    "build": "parcel build public/index.html",
+    "build": "parcel build public/index.html --public-url /Tic-Tac-Toe-Game/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
